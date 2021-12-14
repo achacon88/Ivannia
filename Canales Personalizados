@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,group-title="National Geographic",BR | NATIONAL GEOGRAPHIC HD
-http://castlempire.site:8080/live/vporras/6z0oYfG0rd/169729.m3u8
-#EXTINF:-1,group-title="National Geographic",USA | National Geographic East HD
-http://castlempire.site:8080/live/vporras/6z0oYfG0rd/171818.m3u8
-#EXTINF:-1,group-title="National Geographic",VIP_BR:NATIONAL GEOGRAPHIC HD
-http://castlempire.site:8080/live/vporras/6z0oYfG0rd/183407.m3u8
-#EXTINF:-1,group-title="National Geographic",BR | NAT GEO WILD HD
-http://castlempire.site:8080/live/vporras/6z0oYfG0rd/169728.m3u8
 #EXTINF:-1,group-title="National Geographic",Premium | Nat Geo (Lat) HD
 http://castlempire.site:8080/live/vporras/6z0oYfG0rd/169858.m3u8
 #EXTINF:-1,group-title="National Geographic",Premium | Nat Geo (MX) HD
